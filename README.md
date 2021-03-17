@@ -1,3 +1,3 @@
 # CV
 Curriculum vitae
-https://alitvinc.github.io/cv/cv
+https://alitvinc.github.io/CV/cv
