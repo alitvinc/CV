@@ -4,7 +4,7 @@
 Personal Info:
 
 Email
-alina.litvicnhuk@yahoo.com
+alina.litvinchuk@yahoo.com
 
 
 Phone
@@ -62,7 +62,7 @@ Phone
 
 - During the year I would like to learn several programming languages, meet hundreds of interesting people. 
 - In a year or less, I would like to do my first internship. 
-- In two or three years - work in the first Big Data or IA projects. 
+- In two or three years - work in the first Big Data or AI projects. 
 - Meet whit Elon Musk.
 - Working with a collider, space or electric vehicles.
 - In five years, I would like to change the processes in the world with the help of code and people around.
